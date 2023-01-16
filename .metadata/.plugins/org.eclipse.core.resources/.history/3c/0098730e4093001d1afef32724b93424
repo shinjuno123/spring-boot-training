@@ -1,0 +1,8 @@
+package com.luv2code.springboot.demo.mycoolapp.rest;
+
+@RestConstroller
+public class FunRestController {
+	
+	// expose "/" that return "Hello World"
+	
+}
