@@ -2247,3 +2247,931 @@ org.eclipse.core.runtime.CoreException: Launch configuration CruddemoApplication
 2023-01-16 22:25:02,140 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\22-jpa-cruddemo\src\test\resources
 2023-01-16 22:28:54,772 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-01-16 22:28:54,779 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 22:28:54,781 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\22-jpa-cruddemo\src\test\resources
+2023-01-16 22:54:32,446 [Worker-103: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code.springboot:cruddemo:0.0.1-SNAPSHOT @ C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\23-spring-data-jpa-cruddemo\pom.xml.
+2023-01-16 22:54:33,013 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 22:54:33,029 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 22:54:33,034 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\23-spring-data-jpa-cruddemo\src\test\resources
+2023-01-16 22:54:34,171 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 22:54:34,173 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 22:54:34,177 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\23-spring-data-jpa-cruddemo\src\test\resources
+2023-01-16 22:55:03,448 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 22:55:03,456 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 22:55:03,459 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\23-spring-data-jpa-cruddemo\src\test\resources
+2023-01-16 22:55:54,303 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 22:55:54,308 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 22:55:54,313 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\23-spring-data-jpa-cruddemo\src\test\resources
+2023-01-16 22:56:19,175 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 22:56:19,183 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 22:56:19,185 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\23-spring-data-jpa-cruddemo\src\test\resources
+2023-01-16 22:56:21,972 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 22:56:21,988 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 22:56:21,991 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\23-spring-data-jpa-cruddemo\src\test\resources
+2023-01-16 22:57:20,500 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 22:57:20,506 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 22:57:20,508 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\23-spring-data-jpa-cruddemo\src\test\resources
+2023-01-16 22:57:31,701 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 22:57:31,709 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 22:57:31,713 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\23-spring-data-jpa-cruddemo\src\test\resources
+2023-01-16 22:59:27,497 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 22:59:27,503 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 22:59:27,506 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\23-spring-data-jpa-cruddemo\src\test\resources
+2023-01-16 22:59:47,050 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 22:59:47,057 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 22:59:47,059 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\23-spring-data-jpa-cruddemo\src\test\resources
+2023-01-16 23:00:37,780 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 23:00:37,790 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 23:00:37,794 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\23-spring-data-jpa-cruddemo\src\test\resources
+2023-01-16 23:01:43,818 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 23:01:43,826 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 23:01:43,829 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\23-spring-data-jpa-cruddemo\src\test\resources
+2023-01-16 23:01:46,332 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 23:01:46,339 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 23:01:46,341 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\23-spring-data-jpa-cruddemo\src\test\resources
+2023-01-16 23:01:47,889 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 23:01:47,896 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 23:01:47,899 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\23-spring-data-jpa-cruddemo\src\test\resources
+2023-01-16 23:02:20,709 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 23:02:20,718 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 23:02:20,721 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\23-spring-data-jpa-cruddemo\src\test\resources
+2023-01-16 23:02:57,094 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 23:02:57,107 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 23:02:57,111 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\23-spring-data-jpa-cruddemo\src\test\resources
+2023-01-16 23:03:21,478 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 23:03:21,488 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 23:03:21,490 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\23-spring-data-jpa-cruddemo\src\test\resources
+2023-01-16 23:05:25,424 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 23:05:25,431 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 23:05:25,435 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\23-spring-data-jpa-cruddemo\src\test\resources
+2023-01-16 23:18:33,743 [Worker-106: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code.springboot:cruddemo:0.0.1-SNAPSHOT @ C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\24-spring-data-rest-cruddemo\pom.xml.
+2023-01-16 23:18:34,226 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 23:18:34,237 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 23:18:34,240 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\24-spring-data-rest-cruddemo\src\test\resources
+2023-01-16 23:18:35,394 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 23:18:35,395 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 23:18:35,397 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\24-spring-data-rest-cruddemo\src\test\resources
+2023-01-16 23:19:12,289 [Worker-103: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code.springboot:cruddemo:0.0.1-SNAPSHOT @ C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\24-spring-data-rest-cruddemo\pom.xml.
+2023-01-16 23:19:12,700 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 23:19:12,701 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 23:19:12,704 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\24-spring-data-rest-cruddemo\src\test\resources
+2023-01-16 23:19:27,898 [Worker-103: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code.springboot:cruddemo:0.0.1-SNAPSHOT @ C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\24-spring-data-rest-cruddemo\pom.xml.
+2023-01-16 23:19:28,901 [Worker-103: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/2.0.0/spring-hateoas-2.0.0.pom
+2023-01-16 23:19:29,149 [Worker-103: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/2.0.0/spring-hateoas-2.0.0.pom
+2023-01-16 23:19:29,313 [Worker-103: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/atteo/parent/1.19/parent-1.19.pom
+2023-01-16 23:19:29,472 [Worker-103: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/atteo/parent/1.19/parent-1.19.pom
+2023-01-16 23:19:29,644 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/3.0.0/spring-plugin-core-3.0.0.jar
+2023-01-16 23:19:29,767 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-rest/3.0.1/spring-boot-starter-data-rest-3.0.1.jar
+2023-01-16 23:19:29,771 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-core/4.0.0/spring-data-rest-core-4.0.0.jar
+2023-01-16 23:19:29,772 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/2.0.0/spring-hateoas-2.0.0.jar
+2023-01-16 23:19:29,772 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-webmvc/4.0.0/spring-data-rest-webmvc-4.0.0.jar
+2023-01-16 23:19:30,022 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-rest/3.0.1/spring-boot-starter-data-rest-3.0.1.jar
+2023-01-16 23:19:30,234 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/atteo/evo-inflector/1.3/evo-inflector-1.3.jar
+2023-01-16 23:19:30,273 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/3.0.0/spring-plugin-core-3.0.0.jar
+2023-01-16 23:19:30,335 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-core/4.0.0/spring-data-rest-core-4.0.0.jar
+2023-01-16 23:19:30,396 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-webmvc/4.0.0/spring-data-rest-webmvc-4.0.0.jar
+2023-01-16 23:19:30,409 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/atteo/evo-inflector/1.3/evo-inflector-1.3.jar
+2023-01-16 23:19:30,522 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/2.0.0/spring-hateoas-2.0.0.jar
+2023-01-16 23:19:30,607 [Worker-103: Building] ERROR o.e.m2e.jdt.internal.ModuleSupport - zip file is empty
+java.util.zip.ZipException: zip file is empty
+	at java.base/java.util.zip.ZipFile$Source.zerror(ZipFile.java:1598)
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1382)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1477)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1315)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1277)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:709)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:243)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:172)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:347)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:318)
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:298)
+	at org.eclipse.m2e.jdt.internal.ModuleSupport.getModuleInfo(ModuleSupport.java:241)
+	at org.eclipse.m2e.jdt.internal.ModuleSupport.getModuleInfo(ModuleSupport.java:203)
+	at org.eclipse.m2e.jdt.internal.ModuleSupport.configureClasspath(ModuleSupport.java:134)
+	at org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator.configureClasspath(AbstractJavaProjectConfigurator.java:1026)
+	at org.eclipse.m2e.jdt.internal.DefaultClasspathManagerDelegate.populateClasspath(DefaultClasspathManagerDelegate.java:68)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:240)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:361)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:343)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.getClasspath(BuildPathManager.java:368)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.updateClasspath(BuildPathManager.java:201)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.mavenProjectChanged(BuildPathManager.java:189)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:832)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:315)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:149)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:87)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:196)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1020)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:247)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:392)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:395)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:506)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:454)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:536)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:161)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:255)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-01-16 23:19:30,846 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 23:19:30,846 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 23:19:30,850 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\24-spring-data-rest-cruddemo\src\test\resources
+2023-01-16 23:19:32,145 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 23:19:32,152 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 23:19:32,154 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\24-spring-data-rest-cruddemo\src\test\resources
+2023-01-16 23:19:32,331 [Worker-103: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-rest/3.0.1/spring-boot-starter-data-rest-3.0.1-sources.jar
+2023-01-16 23:19:32,561 [Worker-103: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-rest/3.0.1/spring-boot-starter-data-rest-3.0.1-sources.jar
+2023-01-16 23:19:32,563 [Worker-103: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-data-rest:3.0.1
+2023-01-16 23:19:33,130 [Worker-103: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-webmvc/4.0.0/spring-data-rest-webmvc-4.0.0-sources.jar
+2023-01-16 23:19:33,614 [Worker-103: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-webmvc/4.0.0/spring-data-rest-webmvc-4.0.0-sources.jar
+2023-01-16 23:19:33,618 [Worker-103: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-rest-webmvc:4.0.0
+2023-01-16 23:19:34,125 [Worker-103: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-core/4.0.0/spring-data-rest-core-4.0.0-sources.jar
+2023-01-16 23:19:34,514 [Worker-103: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-core/4.0.0/spring-data-rest-core-4.0.0-sources.jar
+2023-01-16 23:19:34,516 [Worker-103: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-rest-core:4.0.0
+2023-01-16 23:19:35,085 [Worker-103: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/2.0.0/spring-hateoas-2.0.0-sources.jar
+2023-01-16 23:19:35,700 [Worker-103: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/2.0.0/spring-hateoas-2.0.0-sources.jar
+2023-01-16 23:19:35,704 [Worker-103: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.hateoas:spring-hateoas:2.0.0
+2023-01-16 23:19:36,214 [Worker-103: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/3.0.0/spring-plugin-core-3.0.0-sources.jar
+2023-01-16 23:19:36,526 [Worker-103: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/3.0.0/spring-plugin-core-3.0.0-sources.jar
+2023-01-16 23:19:36,530 [Worker-103: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.plugin:spring-plugin-core:3.0.0
+2023-01-16 23:19:37,053 [Worker-103: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/atteo/evo-inflector/1.3/evo-inflector-1.3-sources.jar
+2023-01-16 23:19:37,306 [Worker-103: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/atteo/evo-inflector/1.3/evo-inflector-1.3-sources.jar
+2023-01-16 23:19:37,311 [Worker-103: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.atteo:evo-inflector:1.3
+2023-01-16 23:19:37,647 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 23:19:37,647 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 23:19:37,648 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\24-spring-data-rest-cruddemo\src\test\resources
+2023-01-16 23:19:56,932 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 23:19:56,939 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 23:19:56,943 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\24-spring-data-rest-cruddemo\src\test\resources
+2023-01-16 23:20:01,552 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 23:20:01,560 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 23:20:01,562 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\24-spring-data-rest-cruddemo\src\test\resources
+2023-01-16 23:20:42,093 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 23:20:42,101 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 23:20:42,104 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\24-spring-data-rest-cruddemo\src\test\resources
+2023-01-16 23:20:48,606 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 23:20:48,615 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 23:20:48,617 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\24-spring-data-rest-cruddemo\src\test\resources
+2023-01-16 23:25:02,850 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 23:25:02,856 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 23:25:02,859 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\24-spring-data-rest-cruddemo\src\test\resources
+2023-01-16 23:25:06,091 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 23:25:06,098 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 23:25:06,101 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\24-spring-data-rest-cruddemo\src\test\resources
+2023-01-16 23:35:19,171 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 23:35:19,181 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 23:35:19,183 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\24-spring-data-rest-cruddemo\src\test\resources
+2023-01-16 23:46:23,973 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 23:46:23,990 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 23:46:23,992 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\24-spring-data-rest-cruddemo\src\test\resources
+2023-01-16 23:47:33,364 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 23:47:33,375 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 23:47:33,377 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\24-spring-data-rest-cruddemo\src\test\resources
+2023-01-16 23:49:30,881 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-16 23:49:30,898 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-16 23:49:30,900 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\24-spring-data-rest-cruddemo\src\test\resources
+2023-01-17 00:01:11,373 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-17 00:01:28,202 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code.springboot:thymeleafdemo:0.0.1-SNAPSHOT @ C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\thymeleafdemo\pom.xml.
+2023-01-17 00:01:29,125 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-thymeleaf/3.0.1/spring-boot-starter-thymeleaf-3.0.1.pom
+2023-01-17 00:01:29,406 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-thymeleaf/3.0.1/spring-boot-starter-thymeleaf-3.0.1.pom
+2023-01-17 00:01:29,811 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-spring6/3.1.1.RELEASE/thymeleaf-spring6-3.1.1.RELEASE.pom
+2023-01-17 00:01:29,993 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-spring6/3.1.1.RELEASE/thymeleaf-spring6-3.1.1.RELEASE.pom
+2023-01-17 00:01:30,141 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-lib/3.1.1.RELEASE/thymeleaf-lib-3.1.1.RELEASE.pom
+2023-01-17 00:01:30,328 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-lib/3.1.1.RELEASE/thymeleaf-lib-3.1.1.RELEASE.pom
+2023-01-17 00:01:30,476 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-parent/3.1.1.RELEASE/thymeleaf-parent-3.1.1.RELEASE.pom
+2023-01-17 00:01:30,560 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-lib/3.1.1.RELEASE/thymeleaf-lib-3.1.1.RELEASE.pom
+2023-01-17 00:01:30,679 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-parent/3.1.1.RELEASE/thymeleaf-parent-3.1.1.RELEASE.pom
+2023-01-17 00:01:30,812 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-lib/3.1.1.RELEASE/thymeleaf-lib-3.1.1.RELEASE.pom
+2023-01-17 00:01:30,843 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/6.0.2/spring-framework-bom-6.0.2.pom
+2023-01-17 00:01:30,944 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/6.0.2/spring-framework-bom-6.0.2.pom
+2023-01-17 00:01:31,013 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/6.0.2/spring-framework-bom-6.0.2.pom
+2023-01-17 00:01:31,095 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/6.0.2/spring-framework-bom-6.0.2.pom
+2023-01-17 00:01:31,195 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.1.1.RELEASE/thymeleaf-3.1.1.RELEASE.pom
+2023-01-17 00:01:31,236 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.1.1.RELEASE/thymeleaf-3.1.1.RELEASE.pom
+2023-01-17 00:01:31,352 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.1.1.RELEASE/thymeleaf-3.1.1.RELEASE.pom
+2023-01-17 00:01:31,367 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.1.1.RELEASE/thymeleaf-3.1.1.RELEASE.pom
+2023-01-17 00:01:31,497 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/attoparser/attoparser/2.0.6.RELEASE/attoparser-2.0.6.RELEASE.pom
+2023-01-17 00:01:31,503 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/attoparser/attoparser/2.0.6.RELEASE/attoparser-2.0.6.RELEASE.pom
+2023-01-17 00:01:31,658 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/attoparser/attoparser/2.0.6.RELEASE/attoparser-2.0.6.RELEASE.pom
+2023-01-17 00:01:31,687 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/attoparser/attoparser/2.0.6.RELEASE/attoparser-2.0.6.RELEASE.pom
+2023-01-17 00:01:31,789 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/unbescape/unbescape/1.1.6.RELEASE/unbescape-1.1.6.RELEASE.pom
+2023-01-17 00:01:31,845 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/unbescape/unbescape/1.1.6.RELEASE/unbescape-1.1.6.RELEASE.pom
+2023-01-17 00:01:31,944 [Worker-5: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/unbescape/unbescape/1.1.6.RELEASE/unbescape-1.1.6.RELEASE.pom
+2023-01-17 00:01:32,009 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/unbescape/unbescape/1.1.6.RELEASE/unbescape-1.1.6.RELEASE.pom
+2023-01-17 00:01:32,942 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-spring6/3.1.1.RELEASE/thymeleaf-spring6-3.1.1.RELEASE.jar
+2023-01-17 00:01:32,964 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-thymeleaf/3.0.1/spring-boot-starter-thymeleaf-3.0.1.jar
+2023-01-17 00:01:33,077 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/unbescape/unbescape/1.1.6.RELEASE/unbescape-1.1.6.RELEASE.jar
+2023-01-17 00:01:33,077 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.1.1.RELEASE/thymeleaf-3.1.1.RELEASE.jar
+2023-01-17 00:01:33,077 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/attoparser/attoparser/2.0.6.RELEASE/attoparser-2.0.6.RELEASE.jar
+2023-01-17 00:01:33,077 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-thymeleaf/3.0.1/spring-boot-starter-thymeleaf-3.0.1.jar
+2023-01-17 00:01:33,103 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/unbescape/unbescape/1.1.6.RELEASE/unbescape-1.1.6.RELEASE.jar
+2023-01-17 00:01:33,247 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.1.1.RELEASE/thymeleaf-3.1.1.RELEASE.jar
+2023-01-17 00:01:33,247 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-spring6/3.1.1.RELEASE/thymeleaf-spring6-3.1.1.RELEASE.jar
+2023-01-17 00:01:33,247 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/attoparser/attoparser/2.0.6.RELEASE/attoparser-2.0.6.RELEASE.jar
+2023-01-17 00:01:33,259 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-thymeleaf/3.0.1/spring-boot-starter-thymeleaf-3.0.1.jar
+2023-01-17 00:01:33,358 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-thymeleaf/3.0.1/spring-boot-starter-thymeleaf-3.0.1.jar
+2023-01-17 00:01:33,872 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-spring6/3.1.1.RELEASE/thymeleaf-spring6-3.1.1.RELEASE.jar
+2023-01-17 00:01:33,872 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/unbescape/unbescape/1.1.6.RELEASE/unbescape-1.1.6.RELEASE.jar
+2023-01-17 00:01:33,872 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/attoparser/attoparser/2.0.6.RELEASE/attoparser-2.0.6.RELEASE.jar
+2023-01-17 00:01:34,008 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.1.1.RELEASE/thymeleaf-3.1.1.RELEASE.jar
+2023-01-17 00:01:34,111 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/unbescape/unbescape/1.1.6.RELEASE/unbescape-1.1.6.RELEASE.jar
+2023-01-17 00:01:34,158 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-spring6/3.1.1.RELEASE/thymeleaf-spring6-3.1.1.RELEASE.jar
+2023-01-17 00:01:34,158 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/attoparser/attoparser/2.0.6.RELEASE/attoparser-2.0.6.RELEASE.jar
+2023-01-17 00:01:34,303 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.1.1.RELEASE/thymeleaf-3.1.1.RELEASE.jar
+2023-01-17 00:01:34,899 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code.springboot.demo:mycoolapp:0.0.1-SNAPSHOT @ C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\03-actuator-demo\pom.xml.
+2023-01-17 00:01:35,272 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code.springboot.demo:mycoolapp:0.0.1-SNAPSHOT @ C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\05-properties-demo\pom.xml.
+2023-01-17 00:01:35,710 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code.springboot.demo:mycoolapp:0.0.1-SNAPSHOT @ C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\04-command-line-demo\pom.xml.
+2023-01-17 00:01:36,408 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code.springboot.demo:mycoolapp:0.0.1-SNAPSHOT @ C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\01-spring-boot-demo\pom.xml.
+2023-01-17 00:01:36,980 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code.springboot.demo:mycoolapp:0.0.1-SNAPSHOT @ C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\02-dev-tools-demo\pom.xml.
+2023-01-17 00:01:38,270 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code.springboot:cruddemo:0.0.1-SNAPSHOT @ C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\21-hibernate-with-service-demo\pom.xml.
+2023-01-17 00:01:38,678 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code.springboot:cruddemo:0.0.1-SNAPSHOT @ C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\22-jpa-cruddemo\pom.xml.
+2023-01-17 00:01:39,213 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code.springboot:cruddemo:0.0.1-SNAPSHOT @ C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\23-spring-data-jpa-cruddemo\pom.xml.
+2023-01-17 00:01:39,921 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code.springboot:cruddemo:0.0.1-SNAPSHOT @ C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\24-spring-data-rest-cruddemo\pom.xml.
+2023-01-17 00:01:42,336 [Worker-22: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /thymeleafdemo/src/main/java
+2023-01-17 00:01:42,337 [Worker-22: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /thymeleafdemo/src/main/resources
+2023-01-17 00:01:42,342 [Worker-22: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /thymeleafdemo/src/main/resources
+2023-01-17 00:01:42,348 [Worker-22: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /thymeleafdemo/src/test/java
+2023-01-17 00:01:42,601 [Worker-22: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 17 sec
+2023-01-17 00:01:42,813 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-thymeleaf/3.0.1/spring-boot-starter-thymeleaf-3.0.1-sources.jar
+2023-01-17 00:01:42,866 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-01-17 00:01:43,071 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-thymeleaf/3.0.1/spring-boot-starter-thymeleaf-3.0.1-sources.jar
+2023-01-17 00:01:43,075 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-thymeleaf:3.0.1
+2023-01-17 00:01:43,111 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code.springboot:thymeleafdemo:0.0.1-SNAPSHOT @ C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\thymeleafdemo\pom.xml.
+2023-01-17 00:01:43,503 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /thymeleafdemo/src/main/java
+2023-01-17 00:01:43,504 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /thymeleafdemo/src/main/resources
+2023-01-17 00:01:43,504 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /thymeleafdemo/src/main/resources
+2023-01-17 00:01:43,505 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /thymeleafdemo/src/test/java
+2023-01-17 00:01:43,659 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-spring6/3.1.1.RELEASE/thymeleaf-spring6-3.1.1.RELEASE-sources.jar
+2023-01-17 00:01:43,793 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-01-17 00:01:44,141 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:01:44,142 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-spring6/3.1.1.RELEASE/thymeleaf-spring6-3.1.1.RELEASE-sources.jar
+2023-01-17 00:01:44,145 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.thymeleaf:thymeleaf-spring6:3.1.1.RELEASE
+2023-01-17 00:01:44,163 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:01:44,169 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\01-spring-boot-demo\src\test\resources
+2023-01-17 00:01:44,540 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:01:44,552 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:01:44,558 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\02-dev-tools-demo\src\test\resources
+2023-01-17 00:01:44,662 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.1.1.RELEASE/thymeleaf-3.1.1.RELEASE-sources.jar
+2023-01-17 00:01:44,678 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:01:44,710 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:01:44,714 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\03-actuator-demo\src\test\resources
+2023-01-17 00:01:44,820 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:01:44,836 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:01:44,841 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\04-command-line-demo\src\test\resources
+2023-01-17 00:01:44,957 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:01:44,990 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:01:44,996 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\05-properties-demo\src\test\resources
+2023-01-17 00:01:45,139 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:01:45,175 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:01:45,181 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\21-hibernate-with-service-demo\src\test\resources
+2023-01-17 00:01:45,321 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:01:45,336 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:01:45,339 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\22-jpa-cruddemo\src\test\resources
+2023-01-17 00:01:45,379 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.1.1.RELEASE/thymeleaf-3.1.1.RELEASE-sources.jar
+2023-01-17 00:01:45,381 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.thymeleaf:thymeleaf:3.1.1.RELEASE
+2023-01-17 00:01:45,424 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:01:45,442 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:01:45,446 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\23-spring-data-jpa-cruddemo\src\test\resources
+2023-01-17 00:01:45,533 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:01:45,552 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:01:45,557 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\24-spring-data-rest-cruddemo\src\test\resources
+2023-01-17 00:01:45,890 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/attoparser/attoparser/2.0.6.RELEASE/attoparser-2.0.6.RELEASE-sources.jar
+2023-01-17 00:01:46,325 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/attoparser/attoparser/2.0.6.RELEASE/attoparser-2.0.6.RELEASE-sources.jar
+2023-01-17 00:01:46,326 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.attoparser:attoparser:2.0.6.RELEASE
+2023-01-17 00:01:46,839 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/unbescape/unbescape/1.1.6.RELEASE/unbescape-1.1.6.RELEASE-sources.jar
+2023-01-17 00:01:47,251 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/unbescape/unbescape/1.1.6.RELEASE/unbescape-1.1.6.RELEASE-sources.jar
+2023-01-17 00:01:47,253 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.unbescape:unbescape:1.1.6.RELEASE
+2023-01-17 00:02:42,509 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code.springboot:thymeleafdemo:0.0.1-SNAPSHOT @ C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\30-thymeleafdemo-helloworld\pom.xml.
+2023-01-17 00:02:42,792 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:02:42,806 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:02:42,809 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\30-thymeleafdemo-helloworld\src\test\resources
+2023-01-17 00:02:44,227 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:02:44,230 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:02:44,232 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\30-thymeleafdemo-helloworld\src\test\resources
+2023-01-17 00:03:55,949 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:03:55,955 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:03:55,958 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\30-thymeleafdemo-helloworld\src\test\resources
+2023-01-17 00:04:21,873 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:04:21,878 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:04:21,881 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\30-thymeleafdemo-helloworld\src\test\resources
+2023-01-17 00:04:48,918 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:04:48,930 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:04:48,933 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\30-thymeleafdemo-helloworld\src\test\resources
+2023-01-17 00:05:44,082 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:05:44,090 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:05:44,094 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\30-thymeleafdemo-helloworld\src\test\resources
+2023-01-17 00:05:58,667 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:05:58,700 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:05:58,704 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\30-thymeleafdemo-helloworld\src\test\resources
+2023-01-17 00:06:24,352 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:06:24,353 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:06:24,358 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\30-thymeleafdemo-helloworld\src\test\resources
+2023-01-17 00:07:06,706 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:07:06,706 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:07:06,710 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\30-thymeleafdemo-helloworld\src\test\resources
+2023-01-17 00:07:28,059 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:07:28,060 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:07:28,065 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\30-thymeleafdemo-helloworld\src\test\resources
+2023-01-17 00:08:03,101 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:08:03,101 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:08:03,104 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\30-thymeleafdemo-helloworld\src\test\resources
+2023-01-17 00:08:14,051 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:08:14,051 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:08:14,054 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\30-thymeleafdemo-helloworld\src\test\resources
+2023-01-17 00:12:15,441 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:12:15,441 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:12:15,446 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\30-thymeleafdemo-helloworld\src\test\resources
+2023-01-17 00:12:44,512 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:12:44,513 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:12:44,516 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\30-thymeleafdemo-helloworld\src\test\resources
+2023-01-17 00:14:45,206 [Worker-38: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code.springboot:thymeleafdemo:0.0.1-SNAPSHOT @ C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\31-thymeleafdemo-helloworld-css\pom.xml.
+2023-01-17 00:14:45,735 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:14:45,751 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:14:45,757 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\31-thymeleafdemo-helloworld-css\src\test\resources
+2023-01-17 00:14:46,868 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:14:46,869 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:14:46,872 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\31-thymeleafdemo-helloworld-css\src\test\resources
+2023-01-17 00:15:07,607 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:15:07,607 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:15:07,610 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\31-thymeleafdemo-helloworld-css\src\test\resources
+2023-01-17 00:15:38,607 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:15:38,608 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:15:38,614 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\31-thymeleafdemo-helloworld-css\src\test\resources
+2023-01-17 00:15:52,721 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:15:52,721 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:15:52,724 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\31-thymeleafdemo-helloworld-css\src\test\resources
+2023-01-17 00:15:58,463 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:15:58,464 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:15:58,469 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\31-thymeleafdemo-helloworld-css\src\test\resources
+2023-01-17 00:16:32,804 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:16:32,805 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:16:32,808 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\31-thymeleafdemo-helloworld-css\src\test\resources
+2023-01-17 00:16:50,775 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:16:50,776 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:16:50,780 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\31-thymeleafdemo-helloworld-css\src\test\resources
+2023-01-17 00:24:37,398 [Worker-46: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code.springboot:thymeleafdemo:0.0.1-SNAPSHOT @ C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\pom.xml.
+2023-01-17 00:24:37,776 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:24:37,788 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:24:37,798 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:24:38,975 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:24:38,977 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:24:38,982 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:25:07,112 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:25:07,138 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:25:07,141 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:25:33,159 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:25:33,169 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:25:33,172 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:26:12,172 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:26:12,179 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:26:12,196 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:26:17,829 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:26:17,844 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:26:17,847 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:26:36,739 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:26:36,744 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:26:36,747 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:27:00,527 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:27:00,532 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:27:00,536 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:27:02,607 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:27:02,661 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:27:02,664 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:27:27,220 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:27:27,225 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:27:27,228 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:28:04,960 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:28:04,966 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:28:04,970 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:28:21,720 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:28:21,725 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:28:21,728 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:28:26,505 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:28:26,513 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:28:26,517 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:28:41,503 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:28:41,512 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:28:41,516 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:28:43,959 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:28:43,966 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:28:43,971 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:28:51,943 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:28:51,953 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:28:51,956 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:29:05,123 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:29:05,130 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:29:05,134 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:29:07,798 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:29:07,809 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:29:07,816 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:29:15,255 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:29:15,260 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:29:15,263 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:29:34,926 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:29:34,931 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:29:34,935 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:29:38,455 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:29:38,465 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:29:38,471 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:29:51,662 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:29:51,669 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:29:51,673 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:30:29,195 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:30:29,199 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:30:29,203 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:30:32,002 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:30:32,012 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:30:32,018 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:31:06,734 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:31:06,741 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:31:06,745 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:31:17,514 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:31:17,522 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:31:17,527 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:31:21,314 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:31:21,321 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:31:21,324 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:31:38,092 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:31:38,098 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:31:38,101 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:31:43,063 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:31:43,073 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:31:43,078 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:33:02,780 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:33:02,788 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:33:02,792 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:33:05,929 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:33:05,934 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 00:33:05,939 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:33:43,797 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:33:43,798 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:33:43,802 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:34:19,116 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:34:19,117 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:34:19,119 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:34:22,622 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:34:22,623 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:34:22,625 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:34:25,966 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:34:25,967 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:34:25,970 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:34:34,345 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:34:34,346 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:34:34,350 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:34:41,618 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:34:41,619 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:34:41,623 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:34:46,447 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:34:46,447 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:34:46,451 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:34:50,641 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:34:50,641 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:34:50,645 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:34:51,658 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:34:51,659 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:34:51,662 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:34:57,313 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:34:57,314 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:34:57,317 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:35:00,040 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:35:00,040 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:35:00,043 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:35:02,134 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:35:02,134 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:35:02,140 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:35:10,787 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:35:10,787 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:35:10,790 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:35:12,915 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:35:12,915 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:35:12,919 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:35:19,554 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:35:19,554 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:35:19,557 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:35:22,351 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:35:22,351 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:35:22,356 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:35:36,021 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:35:36,021 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:35:36,025 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:35:55,585 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:35:55,585 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:35:55,589 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:35:59,778 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:35:59,778 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:35:59,782 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:46:49,032 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:46:49,033 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:46:49,038 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:47:08,319 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:47:08,320 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:47:08,323 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:47:27,569 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:47:27,569 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:47:27,572 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:47:41,206 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:47:41,206 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:47:41,210 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\32-thymeleafdemo-employees-list\src\test\resources
+2023-01-17 00:54:05,189 [Worker-54: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code.springboot:thymeleafdemo:0.0.1-SNAPSHOT @ C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\33-thymeleafdemo-employees-list-css\pom.xml.
+2023-01-17 00:54:05,521 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:54:05,529 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-17 00:54:05,537 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\33-thymeleafdemo-employees-list-css\src\test\resources
+2023-01-17 00:54:06,724 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:54:06,726 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-17 00:54:06,730 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\33-thymeleafdemo-employees-list-css\src\test\resources
+2023-01-17 00:55:49,871 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:55:49,873 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:55:49,877 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\33-thymeleafdemo-employees-list-css\src\test\resources
+2023-01-17 00:55:52,976 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:55:52,976 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:55:52,979 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\33-thymeleafdemo-employees-list-css\src\test\resources
+2023-01-17 00:55:54,099 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:55:54,099 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:55:54,103 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\33-thymeleafdemo-employees-list-css\src\test\resources
+2023-01-17 00:56:19,990 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:56:19,990 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:56:19,994 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\33-thymeleafdemo-employees-list-css\src\test\resources
+2023-01-17 00:56:34,888 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:56:34,888 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:56:34,890 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\33-thymeleafdemo-employees-list-css\src\test\resources
+2023-01-17 00:56:59,206 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:56:59,206 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:56:59,209 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\33-thymeleafdemo-employees-list-css\src\test\resources
+2023-01-17 00:57:11,268 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:57:11,268 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:57:11,272 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\33-thymeleafdemo-employees-list-css\src\test\resources
+2023-01-17 00:57:38,751 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:57:38,752 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:57:38,756 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\33-thymeleafdemo-employees-list-css\src\test\resources
+2023-01-17 00:57:52,804 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:57:52,804 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:57:52,807 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\33-thymeleafdemo-employees-list-css\src\test\resources
+2023-01-17 00:59:21,575 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 00:59:21,575 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 00:59:21,578 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\33-thymeleafdemo-employees-list-css\src\test\resources
+2023-01-17 01:00:05,565 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 01:00:05,566 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:00:05,569 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\33-thymeleafdemo-employees-list-css\src\test\resources
+2023-01-17 01:01:16,615 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 01:01:16,615 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:01:16,619 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\33-thymeleafdemo-employees-list-css\src\test\resources
+2023-01-17 01:01:40,505 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 01:01:40,505 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:01:40,507 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\33-thymeleafdemo-employees-list-css\src\test\resources
+2023-01-17 01:01:43,138 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 01:01:43,138 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:01:43,142 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\33-thymeleafdemo-employees-list-css\src\test\resources
+2023-01-17 01:07:38,383 [Worker-56: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code.springboot:thymeleafdemo:0.0.1-SNAPSHOT @ C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\pom.xml.
+2023-01-17 01:07:38,769 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:07:38,783 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-17 01:07:38,792 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:07:39,969 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:07:39,970 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-17 01:07:39,978 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:08:35,353 [Worker-56: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code.springboot:thymeleafdemo:0.0.1-SNAPSHOT @ C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\pom.xml.
+2023-01-17 01:08:35,812 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 01:08:35,812 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 01:08:35,815 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:08:36,925 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:08:36,935 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-17 01:08:36,940 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:09:20,366 [Worker-67: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code.springboot:thymeleafdemo:0.0.1-SNAPSHOT @ C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\pom.xml.
+2023-01-17 01:09:20,684 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 01:09:20,684 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 01:09:20,687 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:09:21,881 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:09:21,898 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-17 01:09:21,908 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:09:35,404 [Worker-65: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code.springboot:thymeleafdemo:0.0.1-SNAPSHOT @ C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\pom.xml.
+2023-01-17 01:09:35,739 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 01:09:35,739 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 01:09:35,743 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:10:47,425 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:10:47,446 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 01:10:47,450 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:11:19,305 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:11:19,315 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-17 01:11:19,318 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:11:41,288 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:11:41,300 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-17 01:11:41,303 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:11:58,011 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:11:58,024 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-17 01:11:58,028 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:12:06,490 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:12:06,504 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-17 01:12:06,509 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:12:40,932 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:12:40,938 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-17 01:12:40,941 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:13:03,615 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:13:03,623 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-17 01:13:03,627 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:13:04,882 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:13:04,889 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-17 01:13:04,922 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:13:59,335 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:13:59,351 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-17 01:13:59,354 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:14:17,343 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:14:17,349 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-17 01:14:17,351 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:14:24,473 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:14:24,480 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-17 01:14:24,483 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:15:07,675 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:15:07,685 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-17 01:15:07,689 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:15:25,413 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:15:25,420 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-17 01:15:25,424 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:15:30,979 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:15:30,985 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-17 01:15:30,989 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:15:36,475 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:15:36,482 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-17 01:15:36,486 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:18:31,717 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:18:31,723 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-17 01:18:31,727 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:18:59,415 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:18:59,423 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-17 01:18:59,426 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:19:38,486 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:19:38,493 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-17 01:19:38,496 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:20:13,729 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:20:13,737 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-17 01:20:13,741 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:21:51,470 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 01:21:51,470 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:21:51,473 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:22:34,595 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 01:22:34,595 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:22:34,598 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:33:53,895 [Worker-72: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code.springboot:thymeleafdemo:0.0.1-SNAPSHOT @ C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\pom.xml.
+2023-01-17 01:33:54,492 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:33:54,502 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2023-01-17 01:33:54,512 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 01:33:55,636 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:33:55,637 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2023-01-17 01:33:55,645 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 01:34:34,304 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 01:34:34,304 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 01:34:34,307 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 01:34:50,143 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 01:34:50,144 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:34:50,147 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 01:35:07,587 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:35:07,595 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2023-01-17 01:35:07,599 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:35:11,564 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:35:11,569 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2023-01-17 01:35:11,573 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:36:34,296 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:36:34,301 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2023-01-17 01:36:34,304 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:36:39,830 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:36:39,836 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2023-01-17 01:36:39,840 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:37:01,375 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:37:01,381 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2023-01-17 01:37:01,384 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:37:13,832 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:37:13,838 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2023-01-17 01:37:13,841 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:38:19,967 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:38:19,972 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2023-01-17 01:38:19,975 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:38:47,413 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 01:38:47,414 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:38:47,416 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 01:38:52,972 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:38:52,981 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2023-01-17 01:38:52,985 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:39:07,506 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 01:39:07,507 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:39:07,510 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 01:39:21,946 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:39:21,952 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2023-01-17 01:39:21,956 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:50:21,361 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 01:50:21,361 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:50:21,364 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 01:50:24,058 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 01:50:24,058 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:50:24,065 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 01:52:17,821 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:52:17,826 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2023-01-17 01:52:17,830 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:52:45,905 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:52:45,911 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2023-01-17 01:52:45,914 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:53:18,363 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:53:18,369 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2023-01-17 01:53:18,372 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:55:41,837 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:55:41,843 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2023-01-17 01:55:41,846 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:56:15,917 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:56:15,923 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2023-01-17 01:56:15,926 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:57:52,873 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 01:57:52,886 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2023-01-17 01:57:52,889 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\34-thymeleafdemo-employees-list-db\src\test\resources
+2023-01-17 01:59:36,369 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-17 02:00:23,457 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:00:23,486 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2023-01-17 02:00:23,497 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:01:14,390 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:01:14,391 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:01:14,398 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:01:20,169 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:01:20,169 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:01:20,173 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:01:26,973 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:01:26,973 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:01:26,978 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:01:53,591 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:01:53,591 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:01:53,595 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:02:04,685 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:02:04,686 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:02:04,691 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:02:18,505 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:02:18,506 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:02:18,511 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:02:56,548 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:02:56,549 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:02:56,554 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:03:06,692 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:03:06,692 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:03:06,695 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:03:07,746 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:03:07,747 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:03:07,750 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:04:04,252 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:04:04,262 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2023-01-17 02:04:04,265 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:04:33,599 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:04:33,606 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2023-01-17 02:04:33,612 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:04:48,182 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:04:48,191 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2023-01-17 02:04:48,195 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:05:01,918 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:05:01,927 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2023-01-17 02:05:01,932 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:05:31,600 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:05:31,601 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:05:31,605 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:06:29,751 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:06:29,752 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:06:29,757 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:06:56,712 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:06:56,713 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:06:56,716 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:06:58,780 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:06:58,781 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:06:58,784 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:07:03,331 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:07:03,332 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:07:03,337 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:07:10,936 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:07:10,936 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:07:10,940 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:07:21,199 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:07:21,200 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:07:21,203 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:07:36,689 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:07:36,689 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:07:36,694 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:07:40,365 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:07:40,366 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:07:40,369 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:07:58,734 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:07:58,735 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:07:58,737 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:08:14,222 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:08:14,223 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:08:14,226 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:08:20,404 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:08:20,405 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:08:20,410 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:09:06,218 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:09:06,218 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:09:06,221 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:09:32,504 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:09:32,504 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:09:32,508 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:09:37,054 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:09:37,054 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:09:37,057 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:09:41,692 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:09:41,693 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:09:41,699 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:09:44,701 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:09:44,701 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:09:44,704 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:10:29,970 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:10:29,970 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:10:29,973 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:11:50,417 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:11:50,417 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:11:50,420 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:13:17,384 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:13:17,394 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-01-17 02:13:17,399 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:13:38,576 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:13:38,586 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-01-17 02:13:38,589 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:13:50,301 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:13:50,346 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-01-17 02:13:50,352 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:14:04,140 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:14:04,145 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-01-17 02:14:04,150 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:14:16,693 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:14:16,703 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-01-17 02:14:16,707 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:16:35,785 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:16:35,792 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-01-17 02:16:35,797 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:18:47,276 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:18:47,284 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-01-17 02:18:47,288 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\35-thymeleafdemo-employees-add\src\test\resources
+2023-01-17 02:26:34,228 [Worker-46: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code.springboot:thymeleafdemo:0.0.1-SNAPSHOT @ C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\36-thymeleafdemo-employees-update\pom.xml.
+2023-01-17 02:26:34,797 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:26:34,812 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-01-17 02:26:34,822 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\36-thymeleafdemo-employees-update\src\test\resources
+2023-01-17 02:26:36,007 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:26:36,009 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-01-17 02:26:36,024 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\36-thymeleafdemo-employees-update\src\test\resources
+2023-01-17 02:27:20,082 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:27:20,082 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:27:20,086 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\36-thymeleafdemo-employees-update\src\test\resources
+2023-01-17 02:27:33,785 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:27:33,785 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:27:33,788 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\36-thymeleafdemo-employees-update\src\test\resources
+2023-01-17 02:27:44,061 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:27:44,062 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:27:44,065 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\36-thymeleafdemo-employees-update\src\test\resources
+2023-01-17 02:28:29,471 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:28:29,472 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:28:29,476 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\36-thymeleafdemo-employees-update\src\test\resources
+2023-01-17 02:28:34,003 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:28:34,004 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:28:34,008 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\36-thymeleafdemo-employees-update\src\test\resources
+2023-01-17 02:28:55,229 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:28:55,230 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:28:55,234 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\36-thymeleafdemo-employees-update\src\test\resources
+2023-01-17 02:29:32,887 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:29:32,897 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-01-17 02:29:32,902 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\36-thymeleafdemo-employees-update\src\test\resources
+2023-01-17 02:30:21,016 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:30:21,030 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-01-17 02:30:21,036 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\36-thymeleafdemo-employees-update\src\test\resources
+2023-01-17 02:30:49,835 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:30:49,854 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-01-17 02:30:49,860 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\36-thymeleafdemo-employees-update\src\test\resources
+2023-01-17 02:30:52,977 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:30:52,996 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-01-17 02:30:53,000 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\36-thymeleafdemo-employees-update\src\test\resources
+2023-01-17 02:31:07,345 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:31:07,358 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-01-17 02:31:07,362 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\36-thymeleafdemo-employees-update\src\test\resources
+2023-01-17 02:31:21,144 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:31:21,152 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-01-17 02:31:21,155 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\36-thymeleafdemo-employees-update\src\test\resources
+2023-01-17 02:31:54,612 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:31:54,618 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-01-17 02:31:54,622 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\36-thymeleafdemo-employees-update\src\test\resources
+2023-01-17 02:38:43,902 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:38:43,913 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-01-17 02:38:43,917 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\36-thymeleafdemo-employees-update\src\test\resources
+2023-01-17 02:40:44,170 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:40:44,171 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:40:44,175 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\36-thymeleafdemo-employees-update\src\test\resources
+2023-01-17 02:46:20,143 [Worker-48: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code.springboot:thymeleafdemo:0.0.1-SNAPSHOT @ C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\37-thymeleafdemo-employees-delete\pom.xml.
+2023-01-17 02:46:20,850 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:46:20,861 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-01-17 02:46:20,872 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\37-thymeleafdemo-employees-delete\src\test\resources
+2023-01-17 02:46:22,010 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:46:22,012 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-01-17 02:46:22,021 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\37-thymeleafdemo-employees-delete\src\test\resources
+2023-01-17 02:46:57,899 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:46:57,900 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:46:57,903 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\37-thymeleafdemo-employees-delete\src\test\resources
+2023-01-17 02:49:12,899 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:49:12,899 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:49:12,903 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\37-thymeleafdemo-employees-delete\src\test\resources
+2023-01-17 02:49:47,002 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 02:49:47,003 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:49:47,006 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ASUS\OneDrive\πŸ≈¡ »≠∏È\JAVALEARNINGCOLLECTION\SpringBoot\37-thymeleafdemo-employees-delete\src\test\resources
+2023-01-17 02:51:07,302 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 02:51:07,309 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
